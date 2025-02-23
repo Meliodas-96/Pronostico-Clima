@@ -2,8 +2,6 @@
 
 ¡Una aplicación de escritorio para consultar el pronóstico del tiempo en cualquier ciudad del mundo! Desarrollada en Python con una interfaz moderna y personalizable. Disponible tanto como script Python como ejecutable (.exe).
 
-![Captura de la aplicación](https://via.placeholder.com/800x500.png?text=Captura+de+la+aplicación+del+clima)  
-*(Reemplazar con imagen real de la interfaz)*
 
 ---
 
