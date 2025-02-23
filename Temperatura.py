@@ -9,9 +9,9 @@ import json
 from datetime import datetime
 
 # Constantes
-API_URL = "http://api.openweathermap.org/data/2.5/weather"
-API_FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast"
-API_KEY = "1a316a90103fc496433cb58a974a17ff"
+API_URL = "YOUR_API_URL_HERE"
+API_FORECAST_URL = "YOUR_API_FORECAST-HERE"
+API_KEY = "YOUR_API_HERE"
 CONFIG_FILE = "config.json"
 
 
